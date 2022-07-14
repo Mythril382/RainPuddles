@@ -1,0 +1,6 @@
+displayName: Rain Puddles
+name: rain-puddles
+description: "Spawns puddles when it is raining.\nMay or may not be laggy."
+author: Mythril
+version: 0.1
+minGameVersion: 136
